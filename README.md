@@ -1,5 +1,4 @@
 # Ahmad Hussain 👋
-
 **Field:** BS Software Engineering Student  
 **Goal:** 4 saal baad remote job leni hai  
 **Start Date:** 12 May 2026
