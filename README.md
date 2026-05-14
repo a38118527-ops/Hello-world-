@@ -5,3 +5,6 @@
 
 Bismillah. Ye mera pehla GitHub project hai.
 Inshallah mehnat se remote Software Engineer banunga.
+
+### My Videos
+- [Video 1: Introduction - My Goal & Plan](https://youtube.com/shorts/eSutaE0UaYo?si=Q3uKFe7YE5NcxuDC)
