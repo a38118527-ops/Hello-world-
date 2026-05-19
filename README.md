@@ -11,4 +11,7 @@ Inshallah mehnat se remote Software Engineer banunga.
 ### my Video
 - [Video 2: C++ Variables Explained in 37 Sec](https://youtube.com/shorts/cNqayOPWGRE?si=fdmIbEbeAbpv_hab)
 - [Video 3: C++ Variables Explained - Full 11 min](https://youtu.be/uYzaKb0aN04?si=6kRttHt2LwI6yWGd)
+### C++ Data Types
+- [Video 4: C++ Variables & Data Types Quick Explain](https://youtube.com/shorts/g8CxG0xYSXc?si=ehQC5vZ4uLcrvLop)
+
 
